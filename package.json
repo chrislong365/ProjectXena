@@ -1,0 +1,30 @@
+{
+  "name": "project_xena",
+  "version": "1.0.0",
+  "description": "web portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrislong365/ProjectXena.git"
+  },
+  "author": "Christopher Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrislong365/ProjectXena/issues"
+  },
+  "homepage": "https://github.com/chrislong365/ProjectXena#readme",
+  "dependencies": {
+    "vue": "^2.3.3",
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-sass": "latest",
+    "gulp-coffee": "latest",
+    "gulp-uglify": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest"
+  
+  }
+}
